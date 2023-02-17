@@ -17,6 +17,7 @@ class OmniauthCallbacksController < Devise::OmniauthCallbacksController
 
 
     def stripe_connect
+      Rails.logger.info(request.env["omniauth.auth"])
       auth_data = request.env["omniauth.auth"]
       @user = current_user
       

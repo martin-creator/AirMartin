@@ -2,7 +2,7 @@
 ![Imgur](https://i.imgur.com/YNFM9PX.jpg)
 > East Africa is endowed with many tourist attractions ranging from unique culture, wild game, and beautiful scenery. These natural endowments have attracted tourists from all over the world who have brought lots of profit to the economy, mainly through foreign exchange, but unfortunately, many locals have not been able to get a decent share of this revenue. AirMartin is a modern platform for East Africans to list their local properties at a lower cost so tourists can find a home to stay in at a cost.   
 
-> Live demo [Project is still under development](#). <!-- If you have the project hosted somewhere, include the link here. -->
+> Live demo [Live demo](https://airmartin.onrender.com/). <!-- If you have the project hosted somewhere, include the link here. -->
 
 ## Table of Contents
 * [General Info](#general-information)

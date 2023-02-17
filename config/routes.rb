@@ -7,6 +7,11 @@ Rails.application.routes.draw do
               controllers: { omniauth_callbacks: 'omniauth_callbacks', registrations: 'registrations'}
   # For details on the DSL available within this file, see http://guides.rubyonrails.org/routing.html
 
+  # devise_scope :users do
+  #   get '/users/auth/stripe_connect/callback' => 'omniauth_callbacks#stripe_connect'
+  #   post '/users/auth/stripe_connect/callback' => 'omniauth_callbacks#stripe_connect'
+  # end
+
   resources :users, only: [:show] do
     member do
       post '/verify_phone_number' => 'users#verify_phone_number'
