@@ -130,9 +130,7 @@ Room for improvement:
 - Include documentation in ruby and html files
 
 To do:
-- Complete stripe setup to support revenue splitting
-- Create revenue dashboard
-- Add message and notification feature for communication between host and guest
+- [Fix stripe_connect callback error](https://github.com/isaacsanders/omniauth-stripe-connect/issues/32)
 - Build a mobile application  version of the website.
 
 
