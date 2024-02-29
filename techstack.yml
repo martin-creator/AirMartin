@@ -2,7 +2,7 @@ repo_name: martin-creator/AirMartin
 report_id: de6b973ccf07a2c98bff19c94a34defa
 version: 0.1
 repo_type: Public
-timestamp: '2024-02-04T07:59:51+00:00'
+timestamp: '2024-02-29T19:53:16+00:00'
 requested_by: martin-creator
 provider: github
 branch: master
@@ -162,7 +162,7 @@ tools:
   last_updated_by: martin-creator
   last_updated_on: 2022-08-24 02:42:46.000000000 Z
 - name: Paperclip
-  description: 'A file attachment management for ActiveRecord '
+  description: A file attachment management for ActiveRecord
   website_url: https://github.com/thoughtbot/paperclip
   open_source: true
   hosted_saas: false
